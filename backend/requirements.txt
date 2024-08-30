@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+bcrypt
+# pip3 install -r requirements.txt
